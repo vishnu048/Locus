@@ -1,0 +1,32 @@
+{
+   
+      "homebaseId":"1",
+      "teamId":"L01",
+      "tasksDate":"2021-10-14",
+   
+   "inputTasks":{
+      "taskId":"20"
+   },
+   "lineItems":{
+      "name":"Chairs",
+      "quantity":"20"
+   },
+   "reosurces":{
+      "name":"CASH",
+      "value":"25000"
+   },
+   "tasktype" : "CASH",
+   "latLng":{
+       "lat":"33.44",
+       "lng":"-93.04"
+   },
+   "slot":{
+       "start":"2021-10-14",
+       "end":"2021-10-16"
+   },
+   "transactionDuration":"86,400",
+   "volume":{
+       "value":"20",
+       "unit":"kgs"
+   }
+}

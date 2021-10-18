@@ -1,0 +1,9 @@
+Steps for checking Barometric pressure automatically
+
+1.	From task1.py modify the existing API so that it monitors current barometric data on minutes basis and stores data only if the pressure falls below 995. Create an alert if the data is stored and send an email.
+
+2.	For sending an email create a new mail account for development purpose and setup a local SMTP server for sending mails.
+
+3.	Use Cron job scheduler specify the start time as 6AM and end time as 6PM daily, so that API runs in the specified time interval and sends mail if pressure drops below 995.
+
+
